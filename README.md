@@ -1,5 +1,6 @@
 # CS2-Project-Q2
 Code: 
+
 print("=== SCHOOL LUNCH PRICE CALCULATOR ===")
 
 prices = []
