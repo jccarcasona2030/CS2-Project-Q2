@@ -1,4 +1,7 @@
 # CS2-Project-Q2
+Carnation Group 10
+Carcasona, Salubre, Alquizar
+
 Code: 
 
     print("=== SCHOOL LUNCH PRICE CALCULATOR ===")
